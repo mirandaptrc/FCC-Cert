@@ -1,1 +1,2 @@
 # FCC-Cert
+This repository contains all the projects I built while working through FreeCodeCamp’s certification curriculum. Each folder represents a specific challenge I completed as part of the learning path. I use this repo to track my progress and document my journey in improving my skills in tech.
